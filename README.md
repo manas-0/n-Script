@@ -63,11 +63,8 @@ This project is open for personal and educational use. Feel free to explore the 
 
 ---
 
-## 🙋 Contact
+##  Contact
 
 **Manas More**
-- GitHub: [manas-0](https://github.com/manas-0)
-- Email: manas.developer01@gmail.com
-
 - GitHub: [manas-0](https://github.com/manas-0)
 - Email: manas.developer01@gmail.com
